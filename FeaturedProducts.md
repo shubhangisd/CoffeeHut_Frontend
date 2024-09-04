@@ -5,3 +5,7 @@
 ### 2. *BaristaPro Compact Espresso Maker*
 - *Description:* Compact and efficient, the BaristaPro offers a simple user interface and integrated grinder for a quick espresso fix. Ideal for small kitchens.
 - *Price:* $349.99
+
+### 3. Discounts
+- Loyal - 20%
+- Cofeehut Wallet - 25%

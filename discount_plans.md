@@ -1,0 +1,2 @@
+- Loyal - 20%
+- Coffeehut_Wallet 25%
